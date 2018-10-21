@@ -1,7 +1,7 @@
-The Raven 
-By Edgr Allan Poe
+# The Raven 
+## By Edgar Allan Poe
 
-Once upon a midnight dreary, while I pondered, weak and weary,
+_Once_ upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
 As of some one gently rapping, rapping at my chamber door.
@@ -27,9 +27,9 @@ Presently my soul grew stronger; hesitating then no longer,
 But the fact is I was napping, and so gently you came rapping,
 And so faintly you came tapping, tapping at my chamber door,
 That I scarce was sure I heard you”—here I opened wide the door;—
-Darkness there and nothing more.
+_Darkness_ there and nothing more.
 
-Deep into that darkness peering, long I stood there wondering, fearing,
+Deep into that _darkness_ peering, long I stood there wondering, fearing,
 Doubting, dreaming dreams no mortal ever dared to dream before;
 But the silence was unbroken, and the stillness gave no token,
 And the only word there spoken was the whispered word, “Lenore?”
@@ -127,5 +127,10 @@ And the lamp-light o’er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
 Shall be lifted—nevermore!
 
+~* by Edgar Allan Poe~
+
 https://www.poetryfoundation.org/poems/48860/the-raven
 
+- [x] Read Poem Again
+- [ ] Make Popcorn
+- [ ] Watch Simpsons Treehouse of Horrors https://vimeo.com/29733360
